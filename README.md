@@ -11,7 +11,8 @@ This project is a simple text-based trivia game developed in Python, it has a sc
 
 # The code:
 The Python code is uploaded to the repository here:
-- [Main Code](https://github.com/MaseeWardak/python-trivia-game/Python_code/Trivia_game_masee.py)
+- [Main Code](https://github.com/MaseeWardak/python-trivia-game/blob/main/Python_code/Trivia_game_masee.py
+)
 
 ## Contact
 For questions or collaboration, reach me at maseehwardak5@gmail.com or www.linkedin.com/in/maseehullah-wardak-8244ba319
