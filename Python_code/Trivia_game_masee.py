@@ -1,5 +1,5 @@
-# ISU_GAME.py
-# ISU Game By Masee Wardak
+# Trivia_game_masee.py
+# By Masee Wardak
 
 import os
 
@@ -264,4 +264,5 @@ if level == 'a':
                     break
                 else:
                     print("Please choose a valid, incomplete level.")
+
             break
